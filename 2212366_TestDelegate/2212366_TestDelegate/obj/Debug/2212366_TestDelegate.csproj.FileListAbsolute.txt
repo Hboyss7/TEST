@@ -1,0 +1,7 @@
+D:\2212366\2212366_TestDelegate\2212366_TestDelegate\bin\Debug\2212366_TestDelegate.exe.config
+D:\2212366\2212366_TestDelegate\2212366_TestDelegate\bin\Debug\2212366_TestDelegate.exe
+D:\2212366\2212366_TestDelegate\2212366_TestDelegate\bin\Debug\2212366_TestDelegate.pdb
+D:\2212366\2212366_TestDelegate\2212366_TestDelegate\obj\Debug\2212366_TestDelegate.csproj.AssemblyReference.cache
+D:\2212366\2212366_TestDelegate\2212366_TestDelegate\obj\Debug\2212366_TestDelegate.csproj.CoreCompileInputs.cache
+D:\2212366\2212366_TestDelegate\2212366_TestDelegate\obj\Debug\2212366_TestDelegate.exe
+D:\2212366\2212366_TestDelegate\2212366_TestDelegate\obj\Debug\2212366_TestDelegate.pdb
